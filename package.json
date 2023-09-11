@@ -4,6 +4,7 @@
   "repository": {
    "url": "git+https://github.com/SteelHeart96/wdd330.git"
   },
+  "homepage": "https://github.com/SteelHeart96/wdd330",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
