@@ -1,0 +1,10 @@
+@import url("../../constants.styles.css");
+
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: var(--nav-space); /* keeps nav below header */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    left: 0; /* Stay at the left */
+    background-color: bisque;
+  }
